@@ -1,5 +1,5 @@
-### Hey, I'm Khanh! 👋 
-It's nice to meet you! 😊
+### Hey, I'm Khanh! 👋😊 
+It's nice to meet you! 
 
 <!--
 **khanh-v-nguyen/khanh-v-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 💗 I’m a student at Pasadena City College.
-- 😄 Pronouns: She/Her
+- 👩🏻‍💻 Pronouns: She/Her
 - 💻 I’m interested in mobile, web, and game dev.
-- 👩🏻‍💻 I’m currently working on a new website.
+- 🌱 I’m currently working on a new website.
 - 🥐 Fun fact: I love Porto's Cheese Rolls.
+
+Ask me about any of my projects! 😆
