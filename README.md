@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on a new website.
 - 🥐 Fun fact: I love Porto's Cheese Rolls.
 
+Languages + Skills: C++, Python, HTML, CSS, SFML
+
 Ask me about any of my projects! 😆
