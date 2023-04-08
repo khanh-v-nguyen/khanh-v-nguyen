@@ -1,4 +1,4 @@
-### Hey, I'm Khanh! 👋😊 
+### Hey! 👋 I'm Khanh!😊 
 It's nice to meet you! 
 
 <!--
