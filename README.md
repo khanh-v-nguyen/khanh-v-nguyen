@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💗 I’m a student at Pasadena City College.
+- 💗 I’m a proud community college student.
 - 👩🏻‍💻 Pronouns: She/Her
 - 💻 I’m interested in mobile, web, and game dev.
 - 🌱 I’m currently working on a new website.
