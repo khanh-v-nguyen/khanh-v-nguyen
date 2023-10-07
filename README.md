@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 💗 I’m a proud community college student.
 - 👩🏻‍💻 Pronouns: She/Her
 - 💻 I’m interested in mobile, web, and game dev.
 - 🌱 I’m currently working on a new website.
